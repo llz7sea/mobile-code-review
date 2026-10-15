@@ -1,0 +1,4 @@
+interface:
+  display_name: "移动端代码审查评分"
+  short_description: "审查原生 iOS/Android 项目代码、完成评分并生成可追溯 HTML 报告"
+  default_prompt: "使用 $mobile-code-review-score 审查当前原生 iOS 或 Android 项目代码并生成评分报告。"
